@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# S1751: Loops with at most one iteration should be refactored
+dotnet_diagnostic.S1751.severity = none

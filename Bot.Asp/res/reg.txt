@@ -1,0 +1,25 @@
+{"Name":"Vinnytsia","Cooordinates":"СЕРЦЕ ПОДІЛЛЯ. Трудолюбівка, Вінницька обл.", "Id":1}
+{"Name":"Volyn","Cooordinates":"ШАЦЬКІ ОЗЕРА. Шацькі озера, Волинська область","Id":2}
+{"Name":"Dnipropetrovsk","Cooordinates":"ІНГОК. Кривий Ріг, Дніпропетровська область","Id":3}
+{"Name":"Donetsk","Cooordinates":"КРЕЙДЯНІ СКЕЛІ. Білокузьминівка, Донецька область","Id":4}
+{"Name":"Zhytomyr","Cooordinates":"ДРУЖБІВСЬКИЙ КАР'ЄР. Дружбівський кар'єр, Житомирська область","Id":5}
+{"Name":"Transcarpathian","Cooordinates":"КУКУЛ. м. Кукул, Закарпатська область","Id":6}
+{"Name":"Zaporizhzhia","Cooordinates":"АЕРОДРОМ «ШИРОКЕ». Аеродром Широке, Запорізька обл","Id":7}
+{"Name":"Ivano-Frankivsk","Cooordinates":"КРИВОПІЛЬСЬКИЙ ПЕРЕВАЛ. Кривопілля, Івано-франківська область","Id":8}
+{"Name":"Kyiv","Cooordinates":"ГУСИНСЬКА ЦЕРКВА. Гусинці, Київська область","Id":9}
+{"Name":"Kirovohrad","Cooordinates":"Sorry, we have no information yet","Id":10}
+{"Name":"Crimea","Cooordinates":"Sorry, we have no information yet","Id":11}
+{"Name":"Luhansk","Cooordinates":"Sorry, we have no information yet","Id":12}
+{"Name":"Lviv","Cooordinates":"ТУРКІВСЬКА ВІСІМКА. Турка, Львівська область","Id":13}
+{"Name":"Mykolayiv","Cooordinates":"БІЛІ СКЕЛІ. Актово, Миколаївська область","Id":14}
+{"Name":"Odesa","Cooordinates":"АККЕРМАНСЬКА ФОРТЕЦЯ. Білгород-Дністровський, Одеська обл.","Id":15}
+{"Name":"Poltava","Cooordinates":"Sorry, we have no information yet","Id":16}
+{"Name":"Rivne","Cooordinates":"ОЗЕРО НОБЕЛЬ. Озеро Нобель, Рівненська область","Id":17}
+{"Name":"Sumy","Cooordinates":"Sorry, we have no information yet","Id":18}
+{"Name":"Ternopil","Cooordinates":"ВОДОСПАД ДЖУРИН. Нирків, Тернопільська обл","Id":19}
+{"Name":"Kharkiv","Cooordinates":"ПІЩАНИЙ КВАРЦЕВИЙ КАР'ЄР. Нововодолазький район, Харківська обл.","Id":20}
+{"Name":"Kherson","Cooordinates":"ГРАНД КАНЬЙОН СТАНІСЛАВ. Херсонські гори, Херсонська обл.","Id":21}
+{"Name":"Khmelnytsky","Cooordinates":"БАКОТА І ВЕЛИКА СЛОБІДКА. Кам'янець-Подільський район, Хмельницька обл","Id":22}
+{"Name":"Cherkasy","Cooordinates":"ЗАМОК ДАХОВСЬКИХ. Леськове, Черкаська обл.","Id":23}
+{"Name":"Chernivtsi","Cooordinates":"ОЗЕРО ГІРСЬКЕ ОКО. Нижній Ялівець, Чернівецька обл.","Id":24}
+{"Name":"Chernihiv","Cooordinates":"Sorry, we have no information yet","Id":25}
