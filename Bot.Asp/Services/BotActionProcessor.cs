@@ -51,7 +51,7 @@ namespace Bot.Asp.Services
         {
             try
             {
-                await Bot.SendTextMessageAsync(id, Get($"https://localhost:7080/{change}"));
+                await Bot.SendTextMessageAsync(id, Get($" https://app-ukainebot.herokuapp.com/{change}"));
             }
             catch { await Bot.SendTextMessageAsync(id, $"Some troubles with response"); }
 
